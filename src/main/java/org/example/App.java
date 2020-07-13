@@ -16,7 +16,6 @@ public class App
                 .toLowerCase()
                 .replace(" ", "");
 
-
         Temp show = null;
 
         switch (userInput) {
